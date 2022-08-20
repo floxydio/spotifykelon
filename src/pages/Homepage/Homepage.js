@@ -1,12 +1,15 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
-import Navbar from '../../components/Navbar'
+import React,{useState} from 'react';
+import { Link } from 'react-router-dom';
+import Navbar from '../../components/Navbar';
+
+const baseurl = require("../")
 
 export default function Homepage() {
+
   return (
     <>
-    <Navbar/>
+      <Navbar />
+      <h1>Haloo</h1>
     </>
-
-    )
+  );
 }
