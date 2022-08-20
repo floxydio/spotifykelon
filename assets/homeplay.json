@@ -1,0 +1,28 @@
+[
+  {
+    "id" : 1,
+    "artist" : "Raisa",
+    "title" : "Mantan Terindah",
+    "kategori" : "romance"
+  },
+  {
+    "id" : 2,
+    "artist" : "Raisa",
+    "title" : "Terjebak Di Ruang Nostalgia",
+    "kategori" : "romance"
+  },
+  {
+    "id" : 3,
+    "artist" : "The Chainsmoker",
+    "title" : "Closer",
+    "kategori" : "beat"
+  },
+
+  {
+    "id" : 4,
+    "artist" : "Iwan Fals",
+    "title" : "Closer",
+    "kategori" : "politics"
+  }
+  
+]
